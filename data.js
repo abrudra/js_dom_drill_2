@@ -205,7 +205,7 @@ btnText.setAttribute("type","text");
 btnText.setAttribute("value","Buy Now");
 btnText.style.color = "white";
 btnText.style.background = "none"
-btnText.style.fontSize = "1.5rem"
+btnText.style.fontSize = "1.3rem"
 btnText.style.width = "90%"
 btnText.style.border = "none"
 btn.style.borderRadius =".5rem"
